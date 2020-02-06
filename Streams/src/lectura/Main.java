@@ -13,7 +13,6 @@ public class Main {
 		accediendo.leer();
 		
 	}
-
 }
 
 class Leer_fichero {
