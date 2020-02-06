@@ -18,7 +18,7 @@ public class Main {
 class Escribir {
 	
 	public void escribe() {
-		String frase = "Prueba para escribir de nuevo en el fichero";
+		String frase = "Prueba para escribir de nuevo en el fichero ";
 		
 		try {
 			FileWriter escritura = new FileWriter("C:/Users/imoji/OneDrive/Escritorio 1/prueba.txt", true);
